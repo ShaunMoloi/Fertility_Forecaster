@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550569022405.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3030452709",
+    "id" : "FEDD084B",
+    "lastKnownWriteTime" : 1457669622,
+    "last_content_update" : 1457669622,
+    "path" : "C:/Users/shaun.moloi/Downloads/Ex_Files_Int_Presentations_Shiny_R/Exercise Files/Fertility_Forecaster/shinyApp/ui.R",
+    "project_path" : "shinyApp/ui.R",
+    "properties" : {
+        "cursorPosition" : "15,39",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
